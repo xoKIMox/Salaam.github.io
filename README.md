@@ -3,6 +3,8 @@
 - author: 
   * id: 66114540850
   * name: นาย อภิวัฒน์ คันทะพรม
+  * id: 66114540575
+  * name: นางสาว มณฑกานต์ ศรีลาอาจ
 - technology: [pygame/streamlit]
 - application description:
 
