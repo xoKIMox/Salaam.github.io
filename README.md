@@ -11,7 +11,7 @@
   * name: นาย อภิวัฒน์ คันทะพรม
   * id: 66114540575
   * name: นางสาว มณฑกานต์ ศรีลาอาจ
-  * 
+
 ## technology: [ pygame ]
 
 ## application description:
