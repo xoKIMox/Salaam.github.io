@@ -1,8 +1,8 @@
 
 - application title
 - author: 
-  * id: ---
-  * name: first last
+  * id: 66114540850
+  * name: นาย อภิวัฒน์ คันทะพรม
 - technology: [pygame/streamlit]
 - application description:
 
