@@ -1,4 +1,4 @@
-## Project Salaam
+# Project Salaam
 
 สำหรับวิฃา .[OOP](https://wichit2s.github.io)
 
