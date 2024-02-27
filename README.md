@@ -3,7 +3,10 @@
 สำหรับวิฃา .[OOP](https://wichit2s.github.io)
 
 เว็บไซต์ .[Salaam](https://github.com/xoKIMox/oop-project.github.io)
-## application title
+
+## application title:
+# Salaam
+
 
 ## author: 
 
@@ -18,4 +21,3 @@
 
 * presentation: [slide/canva/etc..] link [public/ubu]
 * video: link [public/ubu]
- xoxoxo
