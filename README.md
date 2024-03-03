@@ -5,7 +5,6 @@
 เว็บไซต์ .[Salaam](https://github.com/xoKIMox/oop-project.github.io)
 
 # application title: **Salaam**
-## Name.Salaam
 
 
 # author: 
@@ -18,6 +17,13 @@
 # technology: [ pygame ]
 
 # application description:
+## วิธีการใช้งาน โปรแกม
 
+- ซิงค์ตัวโปรเจกเข้ากับ ตัวรันโปรแกรม
+  
+- pip install pygame
+  
+- กดรันได้เลย
+  
 * presentation: [slide/canva/etc..] link [public/ubu]
 * video: link [public/ubu]
