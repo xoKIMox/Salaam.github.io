@@ -34,9 +34,9 @@ WHITE = (255,255,255)
 BLACK = (0, 0, 0)
 
 #นำรูปเข้า
-bg = pygame.image.load("bg.png")
+bg = pygame.image.load("projact/bg.png")
 #enemy = pygame.image.load("D:\projact\Fire_Spirit\Idle.png")
-button_image = pygame.image.load("button.png")
+button_image = pygame.image.load("projact/button.png")
 ball = pygame.image.load("D:\\projact\\ball\\03.png")
 
 #นำเสียงเข้า
@@ -100,15 +100,15 @@ buttonexit_rect = button_image.get_rect()
 buttonexit_rect.center = (SCREEN_W // 2, SCREEN_H - 200)
 
 # โหลดฟอนต์/ปรับขนาด
-font_start = pygame.font.Font("Micro5-Regular.ttf", 60)
-font_Salaam = pygame.font.Font("Micro5-Regular.ttf", 300)
-font_time = pygame.font.Font("Micro5-Regular.ttf",100)
-font_score = pygame.font.Font("Micro5-Regular.ttf",100)
-font_endgame = pygame.font.Font("Micro5-Regular.ttf",200)
-font_exit = pygame.font.Font("Micro5-Regular.ttf",60)
-font_scoreend = pygame.font.Font("Micro5-Regular.ttf",60)
-font_timescore = pygame.font.Font("Micro5-Regular.ttf",60)
-font_Hp = pygame.font.Font("Micro5-Regular.ttf",100)
+font_start = pygame.font.Font("projact/Micro5-Regular.ttf", 60)
+font_Salaam = pygame.font.Font("projact/Micro5-Regular.ttf", 300)
+font_time = pygame.font.Font("projact/Micro5-Regular.ttf",100)
+font_score = pygame.font.Font("projact/Micro5-Regular.ttf",100)
+font_endgame = pygame.font.Font("projact/Micro5-Regular.ttf",200)
+font_exit = pygame.font.Font("projact/Micro5-Regular.ttf",60)
+font_scoreend = pygame.font.Font("projact/Micro5-Regular.ttf",60)
+font_timescore = pygame.font.Font("projact/Micro5-Regular.ttf",60)
+font_Hp = pygame.font.Font("projact/Micro5-Regular.ttf",100)
 
 
 # สร้างตัวหนังสือ "เริ่ม"
