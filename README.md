@@ -1,5 +1,5 @@
 # Project Salaam
-![bannner](messageImage_1709468848078(1).jpg)
+![bannner](Salaam.jpg)
 
 สำหรับวิฃา .[OOP](https://wichit2s.github.io)
 
