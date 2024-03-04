@@ -25,5 +25,5 @@
   
 - กดรันได้เลย
   
-* presentation: [slide/canva/etc..] link [public/ubu]
+* presentation: .[Salaam](https://www.canva.com/design/DAF9-KZwWJo/f4CRZLaA0hgyuB8vEMfV2A/edit?utm_content=DAF9-KZwWJo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * video: link [public/ubu]
