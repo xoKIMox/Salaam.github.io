@@ -32,4 +32,4 @@
 - กดรันได้เลย
   
 * presentation: .[Salaam](https://www.canva.com/design/DAF9-KZwWJo/f4CRZLaA0hgyuB8vEMfV2A/edit?utm_content=DAF9-KZwWJo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* video: link [public/ubu]
+* video: link [https://youtu.be/TC8M8TTkHAo?si=UVGFzo7Yw_xhbfUS]
